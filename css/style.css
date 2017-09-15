@@ -2,7 +2,7 @@ body {
   max-width: 800px;
   margin: auto;
   padding: .2em;
-  line-height: 1.5em;
+  line-height: 1.5;
 }
 
 /* Table of Contents, if wanted
@@ -28,6 +28,14 @@ output:
   color: #FFF;
   padding: 5px;
   border-radius: 5px;
+}
+
+.article-meta * {
+  color: #fff;
+}
+
+.article-meta a {
+  color: #613DC1;
 }
 
 .terms { font-size: .9em; }

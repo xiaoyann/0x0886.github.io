@@ -1,7 +1,12 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next', Avenir, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  color: #333;
+  font-size: 14px;
+  font-family: sans-serif, -apple-system, BlinkMacSystemFont, 'Avenir Next', Avenir, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 85%;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #000;
 }

@@ -6,6 +6,7 @@
     <title>Solve the problem of javascript precision | 0x0886</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
     <header>
 
   
@@ -239,6 +240,21 @@ function accAdd(num1, num2) {
 
 </main>
 
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<div id="comments"></div>
+<script>
+const gitment = new Gitment({
+  id: location.pathname, 
+  owner: 'xiaoyann',
+  repo: 'blog',
+  oauth: {
+    client_id: '81f6fe9f325f97745568',
+    client_secret: '97afd96e4d51ae056bf6714d902e4611d067559a',
+  }
+})
+gitment.render('comments')
+</script>
+
     <footer>
       
 <script>
@@ -274,7 +290,6 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-
 
       
       <hr/>

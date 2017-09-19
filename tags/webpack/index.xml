@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>How to use webpack</title>
-      <link>/posts/engineering-design/how-to-use-webpack/</link>
+      <title>How to use webpack?</title>
+      <link>/posts/engineering/how-to-use-webpack/</link>
       <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/posts/engineering-design/how-to-use-webpack/</guid>
+      <guid>/posts/engineering/how-to-use-webpack/</guid>
       <description>因为最近在工作中尝试了 webpack、react、redux、es6 技术栈，所以总结出了一套 boilerplate，以便下次做项目时可以快速开始，并进行持续优化。对应的项目地址：webpack-react-redux-es6-boilerplate
 该项目的 webpack 配置做了不少优化，所以构建速度还不错。文章的最后还对使用 webpack 的问题及性能优化作出了总结。
 项目结构规划 每个模块相关的 css、img、js 文件都放在一起，比较直观，删除模块时也会方便许多。测试文件也同样放在一起，哪些模块有没有写测试，哪些测试应该一起随模块删除，一目了然。

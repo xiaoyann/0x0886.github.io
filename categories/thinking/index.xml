@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 0x0886</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on 0x0886</description>
+    <title>Thinking on 0x0886</title>
+    <link>/categories/thinking/</link>
+    <description>Recent content in Thinking on 0x0886</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Sep 2017 12:12:00 +0800</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/thinking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,27 +24,6 @@
 2. 有潜力成为更强的人 学习能力强的人快速达到中、高级水平是很容易的事，甚至有可能变得更强。而且公司也更愿意从底层培养人才，因为忠诚度更高。学习能力怎么样，是决定你是否有潜力成长起来的关键因素之一。
 3. 能跟得上技术的快速变化 这个时代各行各业都在变化。技术也是一样，可以说是日新月异，尤其是前端技术。没有优秀的学习能力很难跟上团队的步伐。
 那么优秀的学习能力体现在哪些方面，或者说怎么提高学习能力了？ 1. 保持对知识的渴望 2. 勤奋是必须的 3. 学习如何看书，然后多看好书 4. 通过多种途径寻找答案 5. 坚持总结，笔记或者博客，有没有学明白，写写就知道了 6. 抽象知识的结构，找到知识之间的联系，不要靠机械记忆 7. 分辨出什么该学，什么不该学，人的精力是有限的，不要和无限的知识较劲 8. 实践，学以致用，这是对所学最好的校验 9. 学习如何学习，找到适合自己的一套学习方法论 </description>
-    </item>
-    
-    <item>
-      <title>Solve the problem of javascript precision</title>
-      <link>/posts/js/solve-the-problem-of-javascript-precision/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/js/solve-the-problem-of-javascript-precision/</guid>
-      <description>// 1. 两数相加 // 0.1 + 0.2 = 0.30000000000000004 // 0.7 + 0.1 = 0.7999999999999999 // 0.2 + 0.4 = 0.6000000000000001 // 2.22 + 0.1 = 2.3200000000000003 // 2. 两数相减 // 1.5 - 1.2 = 0.30000000000000004 // 0.3 - 0.2 = 0.09999999999999998 // 3. 两数相乘 // 19.9 * 100 = 1989.9999999999998 // 19.9 * 10 * 10 = 1990 // 1306377.64 * 100 = 130637763.99999999 // 1306377.64 * 10 * 10 = 130637763.</description>
-    </item>
-    
-    <item>
-      <title>How to use webpack?</title>
-      <link>/posts/engineering/how-to-use-webpack/</link>
-      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/engineering/how-to-use-webpack/</guid>
-      <description>因为最近在工作中尝试了 webpack、react、redux、es6 技术栈，所以总结出了一套 boilerplate，以便下次做项目时可以快速开始，并进行持续优化。对应的项目地址：webpack-react-redux-es6-boilerplate
-该项目的 webpack 配置做了不少优化，所以构建速度还不错。文章的最后还对使用 webpack 的问题及性能优化作出了总结。
-项目结构规划 每个模块相关的 css、img、js 文件都放在一起，比较直观，删除模块时也会方便许多。测试文件也同样放在一起，哪些模块有没有写测试，哪些测试应该一起随模块删除，一目了然。
-build |-- webpack.config.js # 公共配置 |-- webpack.dev.js # 开发配置 |-- webpack.release.js # 发布配置 docs # 项目文档 node_modules src # 项目源码 |-- conf # 配置文件 |-- pages # 页面目录 | |-- page1 | | |-- index.js # 页面逻辑 | | |-- index.scss # 页面样式 | | |-- img # 页面图片 | | | |-- xx.png | | |-- __tests__ # 测试文件 | | | |-- xx.</description>
     </item>
     
   </channel>

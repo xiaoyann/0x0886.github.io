@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 0x0886</title>
-    <link>/tags/</link>
+    <link>/tags.html</link>
     <description>Recent content in Tags on 0x0886</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -13,19 +13,19 @@
     
     <item>
       <title>Js</title>
-      <link>/tags/js/</link>
+      <link>/tags/js.html</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/js/</guid>
+      <guid>/tags/js.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webpack</title>
-      <link>/tags/webpack/</link>
+      <link>/tags/webpack.html</link>
       <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/webpack/</guid>
+      <guid>/tags/webpack.html</guid>
       <description></description>
     </item>
     

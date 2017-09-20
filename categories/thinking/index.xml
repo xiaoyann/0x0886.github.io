@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thinking on 0x0886</title>
-    <link>/categories/thinking/</link>
+    <link>/categories/thinking.html</link>
     <description>Recent content in Thinking on 0x0886</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>How to enhance your learning ability?</title>
-      <link>/posts/thinking/how-to-enhance-your-learning-ability/</link>
+      <title>怎么提高学习能力？</title>
+      <link>/posts/thinking/how-to-enhance-your-learning-ability.html</link>
       <pubDate>Sun, 17 Sep 2017 12:12:00 +0800</pubDate>
       
-      <guid>/posts/thinking/how-to-enhance-your-learning-ability/</guid>
+      <guid>/posts/thinking/how-to-enhance-your-learning-ability.html</guid>
       <description> 我们在评估一个人的能力时，除了要看这个人的专业能力，还要看他的通用能力。专业能力就是我们常说的硬技能，如开发者的编码能力、产品经理的需求分析能力；通用能力就是我们常说的软技能，如学习能力、思考能力、沟通能力&amp;hellip;&amp;hellip;
 通过对通用能力的评估，我们希望看到的是这个人的潜力如何。潜力主要体现在技术水平的发展与团队融合这两方面。对于初级和中级水平的工程师，一般的公司会更看重你的潜力，胜过你现在的专业能力。
 学习能力是非常重要的一项。很多公司的招聘描述中就有“善于学习”、“快速学习能力”等强调学习能力的要求。因为学习能力优秀的人有三点好处：

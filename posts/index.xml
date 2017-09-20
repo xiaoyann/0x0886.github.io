@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 0x0886</title>
-    <link>/posts/</link>
+    <link>/posts.html</link>
     <description>Recent content in Posts on 0x0886</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>How to enhance your learning ability?</title>
-      <link>/posts/thinking/how-to-enhance-your-learning-ability/</link>
+      <title>怎么提高学习能力？</title>
+      <link>/posts/thinking/how-to-enhance-your-learning-ability.html</link>
       <pubDate>Sun, 17 Sep 2017 12:12:00 +0800</pubDate>
       
-      <guid>/posts/thinking/how-to-enhance-your-learning-ability/</guid>
+      <guid>/posts/thinking/how-to-enhance-your-learning-ability.html</guid>
       <description> 我们在评估一个人的能力时，除了要看这个人的专业能力，还要看他的通用能力。专业能力就是我们常说的硬技能，如开发者的编码能力、产品经理的需求分析能力；通用能力就是我们常说的软技能，如学习能力、思考能力、沟通能力&amp;hellip;&amp;hellip;
 通过对通用能力的评估，我们希望看到的是这个人的潜力如何。潜力主要体现在技术水平的发展与团队融合这两方面。对于初级和中级水平的工程师，一般的公司会更看重你的潜力，胜过你现在的专业能力。
 学习能力是非常重要的一项。很多公司的招聘描述中就有“善于学习”、“快速学习能力”等强调学习能力的要求。因为学习能力优秀的人有三点好处：
@@ -27,20 +27,20 @@
     </item>
     
     <item>
-      <title>Solve the problem of javascript precision</title>
-      <link>/posts/js/solve-the-problem-of-javascript-precision/</link>
+      <title>解决 JavaScript 浮点数精度丢失问题</title>
+      <link>/posts/js/solve-the-problem-of-javascript-precision.html</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/posts/js/solve-the-problem-of-javascript-precision/</guid>
+      <guid>/posts/js/solve-the-problem-of-javascript-precision.html</guid>
       <description>// 1. 两数相加 // 0.1 + 0.2 = 0.30000000000000004 // 0.7 + 0.1 = 0.7999999999999999 // 0.2 + 0.4 = 0.6000000000000001 // 2.22 + 0.1 = 2.3200000000000003 // 2. 两数相减 // 1.5 - 1.2 = 0.30000000000000004 // 0.3 - 0.2 = 0.09999999999999998 // 3. 两数相乘 // 19.9 * 100 = 1989.9999999999998 // 19.9 * 10 * 10 = 1990 // 1306377.64 * 100 = 130637763.99999999 // 1306377.64 * 10 * 10 = 130637763.</description>
     </item>
     
     <item>
-      <title>How to use webpack?</title>
-      <link>/posts/engineering/how-to-use-webpack/</link>
+      <title>Webpack &#43; React &#43; ES6 技术栈全套配置指南</title>
+      <link>/posts/engineering/how-to-use-webpack.html</link>
       <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/posts/engineering/how-to-use-webpack/</guid>
+      <guid>/posts/engineering/how-to-use-webpack.html</guid>
       <description>因为最近在工作中尝试了 webpack、react、redux、es6 技术栈，所以总结出了一套 boilerplate，以便下次做项目时可以快速开始，并进行持续优化。对应的项目地址：webpack-react-redux-es6-boilerplate
 该项目的 webpack 配置做了不少优化，所以构建速度还不错。文章的最后还对使用 webpack 的问题及性能优化作出了总结。
 项目结构规划 每个模块相关的 css、img、js 文件都放在一起，比较直观，删除模块时也会方便许多。测试文件也同样放在一起，哪些模块有没有写测试，哪些测试应该一起随模块删除，一目了然。

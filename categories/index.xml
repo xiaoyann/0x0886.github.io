@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 0x0886</title>
-    <link>/categories/</link>
+    <link>/categories.html</link>
     <description>Recent content in Categories on 0x0886</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Js</title>
-      <link>/categories/js/</link>
+      <link>/categories/js.html</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/categories/js/</guid>
+      <guid>/categories/js.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thinking</title>
-      <link>/categories/thinking/</link>
+      <link>/categories/thinking.html</link>
       <pubDate>Sun, 17 Sep 2017 12:12:00 +0800</pubDate>
       
-      <guid>/categories/thinking/</guid>
+      <guid>/categories/thinking.html</guid>
       <description></description>
     </item>
     
